@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">☀︎</string>
+    <string name="bt_weather">Weather</string>
+    <string name="bt_meeting">meet up</string>
+    <string name="underConstruction">Now At Work!</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="WeatherInfo">Weather</string>
+    <string name="touristSpot">Tourist Spot</string>
+    <string name="language">lang=en</string>
+    <string name="temp">temperature</string>
+    <string name="recommend">Recommend Sight Seeing Spots</string>
+    <string name="map">map</string>
+    <string name="meet">meet</string>
+    <string name="timeMinutes">Minutes</string>
+    <string name="timeHour">hour</string>
+    <string name="alarm">alarmStart</string>
+    <string name="cancel">cancel</string>
+    <string name="mail">mail</string>
+    <string name="title">OUTING SUPPORT</string>
+    <string name="set">Weather display</string>
+</resources>

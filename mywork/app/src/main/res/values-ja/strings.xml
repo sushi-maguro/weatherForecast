@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">☀︎</string>
+    <string name="bt_weather">お天気</string>
+    <string name="bt_meeting">待ち合わせ</string>
+    <string name="underConstruction">製作中。乞うご期待！</string>
+    <string name="departure">出発地</string>
+    <string name="destination">目的地</string>
+    <string name="WeatherInfo">お天気情報</string>
+    <string name="touristSpot">観光地</string>
+    <string name="language">lang=ja</string>
+    <string name="temp">気温</string>
+    <string name="recommend">おすすめスポット</string>
+    <string name="map">地図</string>
+    <string name="meet">待ち合わせ</string>
+    <string name="timeMinutes">分</string>
+    <string name="timeHour">時間</string>
+    <string name="alarm">アラームスタート</string>
+    <string name="cancel">キャンセル</string>
+    <string name="mail">メール</string>
+    <string name="title">お出かけ支援アプリ</string>
+    <string name="set">天候表示</string>
+</resources>
